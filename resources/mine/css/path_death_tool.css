@@ -1,0 +1,29 @@
+#death_heatmap_canvas{
+	margin-top: -6px;
+}
+
+#path-death-tool-tab{
+	margin-bottom:20px;
+}
+
+.select_main_container{
+	margin-right:40px;
+}
+
+#selection_container{
+	height: 400px;
+	width:300px;
+	overflow:auto;
+	font-size:18px;
+	cursor:pointer;
+	border-radius:5px;
+}
+
+#selection_container table{
+	border-collapse:collapse;
+	width:100%;
+}
+
+.tool_buttons{
+	margin-top:10px;
+}

@@ -1,0 +1,10 @@
+.my_container{
+	padding:10px;
+	background-color:#F5F5F5;
+	border:1px solid #ddd;
+	border-radius: 5px;
+}
+
+.tab-pane{
+	padding:0px 40px 20px 40px;
+}
